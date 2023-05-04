@@ -12,7 +12,7 @@ From there other scripts can be made to use Apple Musics extensive API for relev
 https://developer.apple.com/documentation/applemusicapi/
 
 
-
+Be sure to change the api /nz/ to your own region so searches return relevent results.
 Account required, extract Bearer and Media User Token from the we by inspecting cookies.
 Place the relevent auths inside the files
 
